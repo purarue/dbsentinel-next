@@ -38,7 +38,7 @@ export default function About() {
         <li className="ml-4">
           <a
             className="text-blue-600"
-            href="https://github.com/seanbreckenridge/mal-id-cache"
+            href="https://github.com/purarue/mal-id-cache"
           >
             mal-id-cache
           </a>{" "}
@@ -76,7 +76,7 @@ export default function About() {
           requests using{" "}
           <a
             className="text-blue-600"
-            href="https://github.com/seanbreckenridge/url_cache"
+            href="https://github.com/purarue/url_cache"
           >
             url_cache
           </a>
